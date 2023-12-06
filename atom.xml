@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kelegele.com</id>
+    <title>可了个乐</title>
+    <updated>2023-12-06T16:52:42.994Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kelegele.com"/>
+    <link rel="self" href="https://kelegele.com/atom.xml"/>
+    <subtitle>关于学习🐳与心得💕</subtitle>
+    <logo>https://kelegele.com/images/avatar.png</logo>
+    <icon>https://kelegele.com/favicon.ico</icon>
+    <rights>All rights reserved 2023, 可了个乐</rights>
+    <entry>
+        <title type="html"><![CDATA[「虚无领域」 社区｜原生｜养老｜和谐 | 正版登录—已关服 R.I.P.]]></title>
+        <id>https://kelegele.com/post/ytsQ_pt-o/</id>
+        <link href="https://kelegele.com/post/ytsQ_pt-o/">
+        </link>
+        <updated>2022-02-02T06:58:03.000Z</updated>
+        <summary type="html"><![CDATA[<p>我的世界国际版Java服务器，加入需区分网易版和国际版，谢谢！<br>
+因为也不是什么大的服务器，那么就简单浅浅介绍一下，想加入社区的进入游戏/QQ群即可~</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我的世界国际版Java服务器，加入需区分网易版和国际版，谢谢！<br>
+因为也不是什么大的服务器，那么就简单浅浅介绍一下，想加入社区的进入游戏/QQ群即可~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft 小服「nOWorld」—已关服 R.I.P.]]></title>
+        <id>https://kelegele.com/post/iEbvMMEZF/</id>
+        <link href="https://kelegele.com/post/iEbvMMEZF/">
+        </link>
+        <updated>2022-01-26T09:53:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>关于《我的世界（Minecraft）》算是我整个成长阶段的启蒙玩物，他点燃了我创造的热情，激发了我往创造发力的引擎，在其自由的游戏空间当中，无数次激起我将MC与<a href="https://zh.wikipedia.org/wiki/%E5%85%83%E5%AE%87%E5%AE%99"><strong>元宇宙「Metaverse」</strong></a>的浮想，不过还没任何输出，这里就浅浅记录一下我与在MC上的一些“创造”&amp;灵感玩物。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>关于《我的世界（Minecraft）》算是我整个成长阶段的启蒙玩物，他点燃了我创造的热情，激发了我往创造发力的引擎，在其自由的游戏空间当中，无数次激起我将MC与<a href="https://zh.wikipedia.org/wiki/%E5%85%83%E5%AE%87%E5%AE%99"><strong>元宇宙「Metaverse」</strong></a>的浮想，不过还没任何输出，这里就浅浅记录一下我与在MC上的一些“创造”&amp;灵感玩物。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的开始，或说是提升]]></title>
+        <id>https://kelegele.com/post/Qe-Ckl8HX/</id>
+        <link href="https://kelegele.com/post/Qe-Ckl8HX/">
+        </link>
+        <updated>2021-08-10T17:56:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>产品之路，更是我的一个提升，我对创造的进一步探索，我对初心的坚守，我对热爱的负责。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>产品之路，更是我的一个提升，我对创造的进一步探索，我对初心的坚守，我对热爱的负责。</p>
+]]></content>
+    </entry>
+</feed>
